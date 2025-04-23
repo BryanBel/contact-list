@@ -3,22 +3,16 @@
 ## Descripción  
 Este proyecto es una lista de contactos básica desarrollada con **HTML, CSS y JavaScript**. Permite almacenar contactos en el almacenamiento local del navegador, incluye una página principal con acceso rápido a la lista, y cuenta con un icono personalizado para identificación visual.
 
----
-
 ## 🚀 Características  
 - **📋 Lista de contactos**: Visualiza todos los contactos almacenados.  
 - **➕ Agregar contactos**: Almacena nuevos contactos en el navegador.  
 - **🔍 Acceso rápido**: Botón/enlace directo desde la home page.  
 - **🎨 Diseño responsive**: Adaptable a diferentes dispositivos.  
 
----
-
 ## 🛠️ Tecnologías  
 - **HTML5**: Estructura de la aplicación.  
 - **CSS3**: Estilos globales (`global.css`) y específicos (`index.css`).  
 - **JavaScript**: Gestión del almacenamiento local y funcionalidad dinámica.  
-
----
 
 ## 📥 Instalación  
 
@@ -54,14 +48,11 @@ O simplemente checkea la pagina haciendo click aqui:
    - **`index.js`**: Archivo js especifico para la funcionalidad de la pagina.
    - **`contacts.js`**: Un módulo para mantener código limpio, seguro, escalable y sin repeticiones.
 
----
 
 ## 🔮 Mejoras Futuras   
 - **Búsqueda/filtrado**: Encontrar contactos rápidamente.  
 - **Exportar/Importar**: Guardar copias de seguridad en un archivo.  
 - **Categorización**: Agrupar contactos por etiquetas.
-
----
 
 ## 🤝 Contribuciones
 Si deseas contribuir a este proyecto, sigue estos pasos:
