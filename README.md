@@ -33,6 +33,9 @@ Pasos para instalar y ejecutar el proyecto en un entorno local.
 3. **Abre el archivo principal en tu navegador:**
    - En Windows: start index.html
    - En macOS: start index.html
+
+O simplemente checkea la pagina haciendo click aqui:
+[https://bryanbel.github.io/initial-contacts/]
    
 ## 🖥️ Uso  
 - **Home Page**: Contiene el acceso principal a la lista de contactos.  
@@ -44,8 +47,12 @@ Pasos para instalar y ejecutar el proyecto en un entorno local.
 - **`global.css`**: Almacena los archivos de estilos CSS globales.
 - **`index.css`**: Almacena los archivos de estilos CSS especificos de la homepage.
 - **`README.md`**: Este archivo, que describe el proyecto.
-- **`README.md`**: Este archivo, que describe el proyecto.
 
+   ---
+   - **`index.html`**: Estructura de la lista de contactos.
+   - **`index.css`**: Almacena los archivos de estilos CSS especificos de la lista de contactos.
+   - **`index.js`**: Archivo js especifico para la funcionalidad de la pagina.
+   - **`contacts.js`**: Un módulo para mantener código limpio, seguro, escalable y sin repeticiones.
 
 ---
 
@@ -76,4 +83,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
 - 👤 **Nombre**: Bryan Belandria  
 - 📧 **Email**: [bryanbelandriav@gmail.com](mailto:bryanbelandriav@gmail.com)  
-- 🌐 **Repositorio**: [https://github.com/BryanBel/initial-contacts](https://github.com/BryanBel/To-Do-List)
+- 🌐 **Repositorio**: [https://github.com/BryanBel/initial-contacts]
