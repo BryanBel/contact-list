@@ -19,7 +19,7 @@ Este proyecto es una lista de contactos básica desarrollada con **HTML, CSS y J
 Pasos para instalar y ejecutar el proyecto en un entorno local.
 
 1. **Clona el repositorio**:  
-   git clone https://github.com/BryanBel/initial-contacts.git
+   git clone https://github.com/BryanBel/contact-list.git
 
 2. **Navega al directorio del proyecto:**
    cd initial-contacts
@@ -29,7 +29,7 @@ Pasos para instalar y ejecutar el proyecto en un entorno local.
    - En macOS: start index.html
 
 O simplemente checkea la pagina haciendo click aqui:
-[https://bryanbel.github.io/initial-contacts/]
+[https://bryanbel.github.io/contact-list/]
    
 ## 🖥️ Uso  
 - **Home Page**: Contiene el acceso principal a la lista de contactos.  
@@ -74,4 +74,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
 - 👤 **Nombre**: Bryan Belandria  
 - 📧 **Email**: [bryanbelandriav@gmail.com](mailto:bryanbelandriav@gmail.com)  
-- 🌐 **Repositorio**: [https://github.com/BryanBel/initial-contacts]
+- 🌐 **Repositorio**: [https://github.com/BryanBel/contact-list]
